@@ -10,4 +10,4 @@ Hi there, I'm Baptiste 👋
 
 🤖 I can code in Ruby on Rails, JS, HTML & CSS
 
-📫 You can reach me on [Linkedin](www.linkedin.com/in/baptiste-dauphin-196176130)
+📫 You can reach me on [Linkedin](https://www.linkedin.com/in/baptiste-dauphin-196176130)
